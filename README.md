@@ -3,6 +3,9 @@
 Official implementation of the paper "A Transformer-based Decoder for Semantic Segmentation with Multi-level Context Mining",  
 by Bowen Shi*, Dongsheng Jiang*, Xiaopeng Zhang, Han Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian. 
 
+<div  align="center">
+<img src="./imgs/framework.png" alt="framework" align=center />
+</div>
 
 ## Installation
 
