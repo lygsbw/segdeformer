@@ -10,6 +10,7 @@ Our code is based on MMSegmentation. For install and data preparation, please re
 
 ## Training 
 Example: train SegFormer-B1 + SegDeformer on ADE20K:
+
 python start_local_train.py --config_file segformer/segformer_mit-b1_512x512_160k_ade20k_segdeformer3.py
 
 ## Citation
