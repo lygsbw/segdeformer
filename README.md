@@ -7,7 +7,8 @@ by Bowen Shi*, Dongsheng Jiang*, Xiaopeng Zhang, Han Li, Wenrui Dai, Junni Zou, 
 ## Installation
 
 Our code is based on [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/). For install and data preparation, please refer to the guidelines in [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/).
-Our code is still in preparation. Currently it can be used by moving the provided code files to the corresponding directory of mmsegmentaion.
+
+Our code is still in preparation. Currently it can be used by moving the provided code files to the corresponding directory of MMSegmentation.
 
 ## Training 
 Example: train SegFormer-B1 + SegDeformer on ADE20K:
