@@ -21,7 +21,7 @@ python start_local_train.py --config_file segformer/segformer_mit-b1_512x512_160
 ## Citation
 If you find this repository/work helpful in your research, welcome to cite the paper.
 ```
-@inproceedings{bingo,
+@inproceedings{segdeformer,
     title={A Transformer-based Decoder for Semantic Segmentation with Multi-level Context Mining}, 
     author={Bowen Shi and Dongsheng Jiang and Xiaopeng Zhang and Han Li and Wenrui Dai and Junni Zou and Hongkai Xiong and Qi Tian},
     journal={European Conference on Computer Vision},
