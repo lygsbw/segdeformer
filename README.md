@@ -25,14 +25,14 @@ python start_local_train.py --config_file segformer/segformer_mit-b1_512x512_160
 
 ### ADE20K
 
-| Method| Backbone | Crop Size | Lr schd | mIoU  | config  | log |
-| ---------------- | -------- | --------- | -----| ----- | --------- | --------- 
-| SegFormer-B1 | MiT-B1 | 512x512   | 160000 |40.97 | -   | -  |
-| SegFormer-B1 + SegDeformer | MiT-B1 | 512x512   | 160000 |44.12 | [config](https://github.com/lygsbw/segdeformer/blob/main/configs/segformer/segformer_mit-b1_512x512_160k_ade20k_segdeformer3.py)   | [log]   |
-| SegFormer-B2 | MiT-B2 | 512x512   | 160000 |45.58 | -  | -  |
-| SegFormer-B2 + SegDeformer | MiT-B2 | 512x512   | 160000 | 47.34 | [config](https://github.com/lygsbw/segdeformer/blob/main/configs/segformer/segformer_mit-b2_512x512_160k_ade20k_segdeformer3.py)    | [log]   |
-| SegFormer-B5 | MiT-B5 | 512x512   | 160000 |49.13 | -  | -  |
-| SegFormer-B5 + SegDeformer | MiT-B5 | 512x512   | 160000 | 50.34 | [config](https://github.com/lygsbw/segdeformer/blob/main/configs/segformer/segformer_mit-b5_512x512_160k_ade20k_segdeformer3.py)   | [log]    |
+| Method| Backbone | Crop Size | Lr schd | mIoU  | config |
+| ---------------- | -------- | --------- | -----| ----- | 
+| SegFormer-B1 | MiT-B1 | 512x512   | 160000 |40.97 | -   | 
+| SegFormer-B1 + SegDeformer | MiT-B1 | 512x512   | 160000 |44.12 | [config](https://github.com/lygsbw/segdeformer/blob/main/configs/segformer/segformer_mit-b1_512x512_160k_ade20k_segdeformer3.py)   |
+| SegFormer-B2 | MiT-B2 | 512x512   | 160000 |45.58 | -  | 
+| SegFormer-B2 + SegDeformer | MiT-B2 | 512x512   | 160000 | 47.34 | [config](https://github.com/lygsbw/segdeformer/blob/main/configs/segformer/segformer_mit-b2_512x512_160k_ade20k_segdeformer3.py)    | 
+| SegFormer-B5 | MiT-B5 | 512x512   | 160000 |49.13 | -  | 
+| SegFormer-B5 + SegDeformer | MiT-B5 | 512x512   | 160000 | 50.34 | [config](https://github.com/lygsbw/segdeformer/blob/main/configs/segformer/segformer_mit-b5_512x512_160k_ade20k_segdeformer3.py)   | 
 
 Note:
 
