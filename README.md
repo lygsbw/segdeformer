@@ -36,7 +36,7 @@ python start_local_train.py --config_file segformer/segformer_mit-b1_512x512_160
 
 Note:
 
-- We adapt our code to the latest version of MMSegmentation (v0.29.1), while the pretrained MiT model we used is still **the old version provided by MMSegmentation** (20210726 version) to keep consistent with our paper. Details can be found in this [link](https://github.com/open-mmlab/mmsegmentation/pull/1705).
+- We adapt our code to the latest version of MMSegmentation (v0.29.1), while the pretrained MiT models we used are still **the old version provided by MMSegmentation** (20210726 version) to keep consistent with our paper. Details can be found in this [link](https://github.com/open-mmlab/mmsegmentation/pull/1705).
 - The performance is sensitive to the seed values used, so the results might fluctuate.
 
 ## Acknowledgement
