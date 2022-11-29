@@ -1,6 +1,6 @@
 # A Transformer-based Decoder for Semantic Segmentation with Multi-level Context Mining
 
-Official implementation of the paper "[[A Transformer-based Decoder for Semantic Segmentation with Multi-level Context Mining] (https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/383_ECCV_2022_paper.php)]",  
+Official implementation of the paper [A Transformer-based Decoder for Semantic Segmentation with Multi-level Context Mining](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/383_ECCV_2022_paper.php),  
 by Bowen Shi*, Dongsheng Jiang*, Xiaopeng Zhang, Han Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian. 
 
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880617.pdf)] [[Appendix](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880617-supp.pdf)]
