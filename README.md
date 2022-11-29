@@ -39,6 +39,10 @@ Note:
 - We adapt our code to the latest version of MMSegmentation (v0.29.1), while the pretrained model we used is still **the old version provided by MMSegmentation** to keep consistent with our paper. Details can be found in this [link](https://github.com/open-mmlab/mmsegmentation/pull/1705).
 - The performance is sensitive to the seed values used, so the results might fluctuate.
 
+## Acknowledgement
+This reposity is based on the [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/) repository. Thanks for their contributions to the community.
+
+
 ## Citation
 If you find this repository/work helpful in your research, welcome to cite the paper.
 ```
