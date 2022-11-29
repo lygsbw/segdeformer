@@ -80,7 +80,7 @@ class BaseDecodeHead(BaseModule, metaclass=ABCMeta):
         self.norm_cfg = norm_cfg
         self.act_cfg = act_cfg
         self.in_index = in_index
-
+        self.out_channels = channels
         self.ignore_index = ignore_index
         self.align_corners = align_corners
 
@@ -334,7 +334,7 @@ class BaseDecodeHeadNew(BaseModule, metaclass=ABCMeta):
         self.norm_cfg = norm_cfg
         self.act_cfg = act_cfg
         self.in_index = in_index
-
+        self.out_channels = channels
         self.ignore_index = ignore_index
         self.align_corners = align_corners
 
