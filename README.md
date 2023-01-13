@@ -46,9 +46,11 @@ This reposity is based on the [MMSegmentation](https://github.com/open-mmlab/mms
 ## Citation
 If you find this repository/work helpful in your research, welcome to cite the paper.
 ```
-@inproceedings{segdeformer,
-    title={A Transformer-based Decoder for Semantic Segmentation with Multi-level Context Mining}, 
-    author={Bowen Shi and Dongsheng Jiang and Xiaopeng Zhang and Han Li and Wenrui Dai and Junni Zou and Hongkai Xiong and Qi Tian},
-    journal={European Conference on Computer Vision},
-    year={2022}
+@inproceedings{shi2022transformer,
+  title={A Transformer-Based Decoder for Semantic Segmentation with Multi-level Context Mining},
+  author={Shi, Bowen and Jiang, Dongsheng and Zhang, Xiaopeng and Li, Han and Dai, Wenrui and Zou, Junni and Xiong, Hongkai and Tian, Qi},
+  booktitle={European Conference on Computer Vision},
+  pages={624--639},
+  year={2022},
+  organization={Springer}
 }
